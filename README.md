@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your **Caesar Cipher Application** project to use on GitHub:
-
----
 
 # Caesar Cipher Application
 
