@@ -15,7 +15,7 @@ A simple GUI-based Caesar Cipher application built using Python and Tkinter. Thi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher-app.git
+   git clone https://github.com/ShanuNajeeb/caesar-cipher-app.git
    cd caesar-cipher-app
    ```
 
